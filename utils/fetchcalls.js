@@ -38,3 +38,6 @@ export async function fetchData({ type, query = '', page = 1 }) {
     return [];
   }
 }
+
+
+
