@@ -1,7 +1,7 @@
 
 import { fetchData } from "@/utils/fetchcalls";
 import Link from "next/link";
-import Image from "next/image";
+
 
 export default async function Home() {
 
@@ -70,7 +70,7 @@ export default async function Home() {
             content!
           </p>
           <Link
-            href="/tv"
+            href="/tvshow"
             className="mt-6 inline-block px-6 py-3 bg-yellow-500 text-gray-900 font-semibold rounded-md hover:bg-yellow-400"
           >
             Explore TV Shows

@@ -1,8 +1,5 @@
-"use client"
-import { useParams } from "next/navigation";
-
-export default function User(){
-    const { user } = useParams();
+export default function User( { params } ){
+    const { user } = params;
     return(
      <>
         { user }
