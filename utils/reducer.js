@@ -1,5 +1,5 @@
 //About useReducer Hook
-//useReducer two parameter reducer function , initialState
+//useReducer take two parameters reducer function , initialState
 //reducer --> currentstate , action
 //return pair of values --> newstate,dispatch
 
