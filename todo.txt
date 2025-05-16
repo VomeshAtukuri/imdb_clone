@@ -1,0 +1,9 @@
+Check with the Network Tab -- done
+Rearrange the NavBar  -- done
+Style the [tv]/[movie] page -- done
+Watchlist Page idea similar to cart page in e-commerces -- done
+Add a remove button to the movie card in the Watchlist page -- done
+I want only id,name,image and rating of the movie -- done
+Design the watchlist page -- done
+set the carosol and fetch trending top rated and more an display them -- 
+
